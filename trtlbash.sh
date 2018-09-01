@@ -1,7 +1,6 @@
 #!/bin/bash
 X=""
-num='^[0-9]$'
-amount=$3
+
 if [ "$1" ] && [ $1 != "$X" ]
 then
     
